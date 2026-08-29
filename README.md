@@ -34,4 +34,4 @@ This project is an interactive Netflix Dashboard created in Microsoft Excel usin
 
 ## Dashboard Preview
 
-![Netflix Dashboard](Dashboard.png)
+![Netflix Dashboard](netflix-dashboard-preview.png)
