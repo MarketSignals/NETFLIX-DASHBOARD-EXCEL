@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project is an interactive Netflix Dashboard created in Microsoft Excel.
-
-The dashboard provides insights into Netflix content using Pivot Tables, Pivot Charts, KPIs, and Slicers.
+This project is an interactive Netflix Dashboard created in Microsoft Excel using Pivot Tables, Pivot Charts, KPIs, and Slicers.
 
 ## Features
 
@@ -26,18 +24,14 @@ The dashboard provides insights into Netflix content using Pivot Tables, Pivot C
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Conditional Formatting
 - Data Cleaning
+- Conditional Formatting
 
 ## Files
 
 - Netflix Dashboard.xlsx
-- Dashboard Screenshot.png
+- Dashboard.png
 
 ## Dashboard Preview
 
-(Add your screenshot below.)
-
-```
-![Dashboard](Dashboard.png)
-```
+![Netflix Dashboard](Dashboard.png)
