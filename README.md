@@ -1,3 +1,5 @@
+## Dashboard Preview
+
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/742a5251-36f5-4f65-8c27-3a520ce89ffc" />
 
 
@@ -30,11 +32,7 @@ This project is an interactive Netflix Dashboard created in Microsoft Excel usin
 - Data Cleaning
 - Conditional Formatting
 
-## Files
 
-- Netflix Dashboard.xlsx
-- Dashboard.png
 
-## Dashboard Preview
 
-![Netflix Dashboard](netflix-dashboard-preview.png)
+
