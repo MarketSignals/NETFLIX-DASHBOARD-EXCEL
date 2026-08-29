@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-08-29 130352" src="https://github.com/user-attachments/assets/f55f1c94-8dad-4989-86ca-273a52bc6852" />
 # Netflix Dashboard (Excel)
 
 ## Project Overview
